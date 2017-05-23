@@ -9,15 +9,15 @@
 3. Edit the information below:
 
 
-```
 
-My name is:
 
-I like to:
+My name is: Latoyya Smith
 
-I'm learning:
+I like to: Learn new technologies, watch/coach basketball, spend time with family and friends.
 
-```
+I'm learning: HTML5/CSS3, JavaScript and Git
+
+
 
 4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
 
